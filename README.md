@@ -2,6 +2,13 @@
 
 Este repositório contém uma análise completa de séries temporais aplicada a dados de volume semanal, desenvolvida como parte de um projeto acadêmico da disciplina de Séries Temporais.
 
+## 📄 Documentação do Projeto
+
+Para facilitar o acesso aos principais materiais do projeto, disponibilizamos:
+
+- **[Relatório Executivo (PDF)](resumo_executivo.pdf)**: Um resumo de 5 páginas com a metodologia, principais resultados e conclusões do projeto.
+- **[Análise Completa (Jupyter Notebook)](relatorio.ipynb)**: O notebook contendo todo o código e o passo a passo detalhado da análise.
+
 ## Descrição do Projeto
 
 O projeto realiza uma análise detalhada de uma série temporal de volume semanal, explorando diferentes técnicas de modelagem e previsão:
@@ -45,7 +52,8 @@ Covariáveis testadas:
 - **Tendência**: Covariável temporal linear
 - **Dummies mensais**: Indicadoras para cada mês
 - **Lags**: Valores defasados (1, 4 e 12 semanas)
-- **Médias Móveis**: Simples e exponenciais (4 e 12 semanas)
+- **Médias Móveis**: Simples e exponenciais (4 e 12 semanas)Relatório Executivo (PDF): Um resumo de 5 páginas com a metodologia, principais resultados e conclusões do projeto.
+Análise Completa (Jupyter Notebook): O notebook contendo todo o código e o passo a passo detalhado da análise.
 - **Volatilidade**: Desvio padrão móvel (4 e 12 semanas)
 
 ### 4. Métricas de Avaliação
