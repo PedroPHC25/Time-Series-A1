@@ -2,7 +2,7 @@
 
 Este repositório contém uma análise completa de séries temporais aplicada a dados de volume semanal, desenvolvida como parte de um projeto acadêmico da disciplina de Séries Temporais.
 
-## 📄 Documentação do Projeto
+## Documentação do Projeto
 
 Para facilitar o acesso aos principais materiais do projeto, disponibilizamos:
 
